@@ -1,0 +1,91 @@
+*{
+	padding: 0;
+	margin: 0;
+	background-color: rgb(190, 190, 190);
+	margin-left: auto !important;
+	font-family: sans-serif;
+	
+}
+.profile{
+	margin top: 50px;
+}
+.profile .p1{
+	
+	float: left;
+	padding: 15px 15px;
+	font-family: Linotype;
+	
+
+
+}
+.profile.p2{
+	float: left;
+	margin-top: 40px;
+	font-family: sans-serif;
+}
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 20px;
+	width: 100%;
+	margin: auto;
+	margin-top: 0px
+}
+
+.kotak1{
+	padding-bottom: 0px;
+	margin-buttom: 100px;
+	/*text-align: justify;*/
+	padding : 70px;
+	margin-top: 150px;
+}
+.subkotak1{
+	margin-top:50px;
+	margin-bottom: 70px;
+}
+.kotakimg img{
+
+	padding top: 50px;
+	margin left: 100px;
+	
+	margin: auto;
+	margin-top: 40px;
+	border-radius: 100%;
+
+	
+}
+.kotak2{
+	padding-right: 130px;
+	padding-top: 50px;
+	margin-bottom: 100px;
+	margin-top: 150px;
+}
+.kotak3{
+	
+	margin: 20px 20px;
+	margin-top: 100px;
+	padding-right: 150px;
+	padding-bottom: 70px;
+	padding-top: 100px;
+}
+.medsos{
+	/*padding: 5px 0;*/
+	/*margin: 50 px;*/
+	
+	
+	
+}
+.kotak3.medsos{
+	/*display: flex;*/
+	padding-bottom: 50px;
+	margin: 20px 20px;
+	margin-top: 40px;
+	padding-right: 120px;
+
+}
+.medsos ul li{
+	list-style-type: none;
+	margin: 0;
+	padding: 20px;
+	display: inline;
+}
